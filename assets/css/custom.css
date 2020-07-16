@@ -35,3 +35,7 @@ body {
 .nav-masthead .nav-link {
     color: white;
 }
+
+.right{
+	float: right;
+}
